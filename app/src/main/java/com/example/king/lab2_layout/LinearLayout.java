@@ -1,4 +1,4 @@
-package com.example.king.lab1;
+package com.example.king.lab2_layout;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

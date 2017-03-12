@@ -1,4 +1,4 @@
-package com.example.king.lab1;
+package com.example.king.lab2_layout;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
