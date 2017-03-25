@@ -1,4 +1,4 @@
-# Lab2_Layout
+# 实验二--Android UI
 主界面：三个按钮，点击跳到对应的布局界面。</br>
 ![主界面](https://github.com/NIXM666/Lab2_Layout/blob/master/app/src/main/res/images/S70312-125104.jpg)
 </br>线性布局：通过调节字体大小实现每行只占一行。</br>
